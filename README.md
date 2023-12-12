@@ -1,5 +1,5 @@
 ### Hi there, I am Farhan 👋
-<img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="220">
 <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Information Content Management student at <a href="https://uitm.edu.my/">UiTM Puncak Perdana</a></p>
 
 [![Twitter: frhanzv](https://img.shields.io/twitter/follow/frhanzv?style=social)](https://twitter.com/frhanzv)
