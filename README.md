@@ -1,6 +1,6 @@
 ### Hi there, I am Farhan 👋
 <img align='right' src="https://media.giphy.com/media/lq4OYg1yffhDdrnL39/giphy.gif" width="220">
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Information Content Management student at <a href="https://uitm.edu.my/">UiTM Puncak Perdana</a></p>
+<p> Information Content Management student at <a href="https://uitm.edu.my/">UiTM Puncak Perdana</a><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 [![Twitter: frhanzv](https://img.shields.io/twitter/follow/frhanzv?style=social)](https://twitter.com/frhanzv)
 [![Linkedin: Farhan](https://img.shields.io/badge/-Farhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wan-ahmad-farhan-849029215/)](https://www.linkedin.com/in/wan-ahmad-farhan-849029215)
@@ -17,5 +17,13 @@ const farhan = {
   "Microsoft Power Bi", "Microsoft Access", "Microsoft Office"]
 }
 ```
+<a href="https://github.com/frhanzvr#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhanzvr&layout=compact&theme=dark#gh-dark-mode-only" alt="My Most Used Languages" />
+</a>
 
+<a href="https://github.com/frhanzvr#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhanzvr&layout=compact&theme=light#gh-light-mode-only" alt="My Most Used Languages" />
+</a>
+
+![](https://komarev.com/ghpvc/?username=frhanzvr)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frhanzvr&theme=tokyonight" alt="Frhanzvr" /></p>
