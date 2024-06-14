@@ -17,13 +17,4 @@ const farhan = {
   "Microsoft Power Bi", "Microsoft Access", "Microsoft Office"]
 }
 ```
-<a href="https://github.com/frhanzvr#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhanzvr&layout=compact&theme=dark#gh-dark-mode-only" alt="My Most Used Languages" />
-</a>
-
-<a href="https://github.com/frhanzvr#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frhanzvr&layout=compact&theme=light#gh-light-mode-only" alt="My Most Used Languages" />
-</a>
-
-![](https://komarev.com/ghpvc/?username=frhanzvr)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frhanzvr&theme=tokyonight" alt="Frhanzvr" /></p>
