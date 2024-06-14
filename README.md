@@ -13,7 +13,8 @@ const farhan = {
   code: [HTML, CSS, PHP, Python],
   web_technologies: [Github, Wordpress, Wix],
   skills: [Web Development, Kodular App Development, Data Analyst],
-  extra_softwere_skills: ["Adobe Photoshop", "Adobe Animate", "Adobe Indesign", "Microsoft Power Bi", "Microsoft Access", "Microsoft Office"]
+  extra_softwere_skills: ["Adobe Photoshop", "Adobe Animate", "Adobe Indesign",
+  "Microsoft Power Bi", "Microsoft Access", "Microsoft Office"]
 }
 ```
 
