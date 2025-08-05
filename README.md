@@ -17,4 +17,4 @@ const farhan = {
   "Microsoft Power Bi", "Microsoft Access", "Microsoft Office"]
 }
 ```
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frhanzv&theme=tokyonight" alt="Frhanzv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frhanzvr&theme=tokyonight" alt="Frhanzvr" /></p>
